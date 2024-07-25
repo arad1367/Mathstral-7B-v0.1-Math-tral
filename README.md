@@ -29,7 +29,7 @@ MathΣtral is a math advisor application built using the **Mathstral 7B** model,
 
 ## Links
 * Links to app: https://huggingface.co/spaces/arad1367/mathstral-7B-v0.1_MisMath
-![Mathstral app](Space.png) 
+* ![Mathstral app](Space.png) 
 
 * Mathstral 7B Model on Hugging Face: https://huggingface.co/mistralai/Mistral-7B-v0.1
 * Make sure you have access to model (permission is needed)
